@@ -10,14 +10,19 @@ and open the template in the editor.
 
 .bloque1{
   background: url("../images/bg.jpeg") no-repeat center;
-  text-align: right;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-  -o-background-size: cover;
   background-size: cover;
   height: 300px;
 }
 
 .logo{
-  
+  width: 10%;
+  height: 10%;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+
+.titulo_bloque1{
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
 }
