@@ -40,22 +40,23 @@ and open the template in the editor.
   margin-right: 10px;
 }
 
-#botones{
+.bloque1_texto{
   text-align: center;
+  color: white;
+  font-family: sans-serif;
 }
 
 button{
   border-radius: 5px;
   padding: 8px 10px;
   border-width: 0px;
+  color: white;
 }
 
 .bloque1_boton1{
   background-color: #337AB7;
-  color: white;
 }
 
 .bloque1_boton2{
-  color: white;
   background-color: #5CB85C;
 }
