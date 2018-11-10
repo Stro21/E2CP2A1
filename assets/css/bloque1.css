@@ -44,16 +44,18 @@ and open the template in the editor.
   text-align: center;
 }
 
+button{
+  border-radius: 5px;
+  padding: 8px 10px;
+  border-width: 0px;
+}
+
 .bloque1_boton1{
-  border-radius: 8px;
   background-color: #337AB7;
   color: white;
-  padding: 15px 32px;
 }
 
 .bloque1_boton2{
   color: white;
   background-color: #5CB85C;
-  border-radius: 8px;
-  padding: 15px 32px;
 }
