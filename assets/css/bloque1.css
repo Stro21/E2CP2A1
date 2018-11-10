@@ -39,8 +39,22 @@ and open the template in the editor.
   color: gray;
   margin-right: 10px;
 }
+
+#botones{
+  text-align: center;
+}
+
 .bloque1_boton1{
   margin-left: 40px;
   margin-top: 20px;
+  border-radius: 8px;
+  background-color: #337AB7;
+  color: white;
+}
+
+.bloque1_boton2{
+/*  float: right; */
+  color: white;
+  background-color: #5CB85C;
   border-radius: 8px;
 }
