@@ -8,3 +8,16 @@ and open the template in the editor.
     Author     : Eduardo
 */
 
+.bloque2{
+    height: 400px;
+}
+
+.bloque2_h2{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.bloque2_p{
+    font-family: sans-serif;
+    text-align: center;
+}
