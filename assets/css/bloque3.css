@@ -9,11 +9,22 @@ and open the template in the editor.
 */
 
 .bloque3{
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 40px;
+    text-align: center;
 }
 
 .bloque3_p{
     font-family: sans-serif;
     text-align: center;
 }
+
+.bloque3_boton{
+    background-color: #337AB7;
+    margin-top: 10px;
+}
+
+.bloque3_texto{
+    font-family: sans-serif;
+}
+
