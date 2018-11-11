@@ -21,3 +21,13 @@ and open the template in the editor.
     font-family: sans-serif;
     text-align: center;
 }
+
+.bloque2-imagen{
+    text-align: center;
+}
+
+.bloque2_imagen{
+    
+    width: 400px;
+    height: auto;
+}
