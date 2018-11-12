@@ -13,9 +13,18 @@ and open the template in the editor.
 }
 
 .bloque-pequeño1{
-    text-align: center;
+    text-align: justify;
+    display: inline-block;
 }
 
 .email{
     color: blue;
+}
+
+.bloque-pequeño2{
+    text-align: justify;
+    display: inline-block;
+    padding: 100px;
+    position: relative;
+    top: -90px;
 }
