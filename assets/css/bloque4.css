@@ -26,5 +26,15 @@ and open the template in the editor.
     display: inline-block;
     padding: 100px;
     position: relative;
-    top: -90px;
+    top: -65px;
+}
+
+.espacio{
+    margin-bottom: 10px;
+}
+
+.bloque4_boton{
+    display: inline-block;
+    color: black;
+    border-style: dotted;
 }
